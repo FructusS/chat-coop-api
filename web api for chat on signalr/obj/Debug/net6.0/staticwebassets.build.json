@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "c3+C8oxxzYrFA+KXJgCTNa1XPqTjg0yeV/3JVOXjRMo=",
+  "Source": "web api for chat on signalr",
+  "BasePath": "_content/web api for chat on signalr",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
